@@ -1,1 +1,2 @@
 # La-IA-como-escudo-financiero
+La inteligencia artificial redefine la lucha contra el fraude financiero. Con análisis predictivo en tiempo real, detecta patrones sospechosos en transacciones y verifica identidades digitales usando biometría facial y de voz. Su aplicación en pagos móviles y criptomonedas mejora la seguridad, mientras que su integración en aseguradoras automatiza la gestión de reclamos. Este avance tecnológico protege al consumidor y transforma las finanzas.
